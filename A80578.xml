@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roman-Catholick principles, in reference to God and the King explained in a letter to a friend, and now made publick, to shew the connexion between the said principles, and the late Popish Plot. By a well-wisher of his countrey.</title>
+            <author>Corker, James Maurus, 1636-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80578</idno>
+            <idno type="STC">Wing C6302A</idno>
+            <idno type="STC">ESTC R229566</idno>
+            <idno type="EEBO-CITATION">99899236</idno>
+            <idno type="PROQUEST">99899236</idno>
+            <idno type="VID">152646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80578)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152646)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2311:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Roman-Catholick principles, in reference to God and the King explained in a letter to a friend, and now made publick, to shew the connexion between the said principles, and the late Popish Plot. By a well-wisher of his countrey.</title>
+                  <author>Corker, James Maurus, 1636-1715.</author>
+                  <author>M. B.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A well-wisher of his countrey = James Maurus Corker, though the work is signed at end: M.B. -- Wing (CD-ROM edition).</note>
+                  <note>The last leaf bears the text of Psalm 35:11 and of Matthew 5:11.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Catholic Church --  England --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152646:1"/>
+            <p>
+               <hi>Roman-Catholick</hi> PRINCIPLES, In Reference to GOD and the KING, Explained in a LETTER to a Friend, And now made Publick, to shew the Connexion between the ſaid <hi>PRINCIPLES,</hi> and the Late, POPISH PLOT.</p>
+            <p>
+               <hi>By a Well-wiſher of his Countrey.</hi>
+            </p>
+            <q>
+               <bibl>Mat. 22. v. 21.</bibl> Render to Caeſar the things which are Caeſar's, and unto God the things that are Gods.</q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:152646:2" rendition="simple:additions"/>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>I Find your laſt as full of <hi>Doubts</hi> and Inquietudes, as your former was o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Heat</hi> and Zeal: whether meer <hi>Compaſsion</hi> hath altered your iudgement, or that you <hi>fear</hi> your own Turn may be next, I cannot tell; but I eaſily perceive you and the greateſt part of honeſt <hi>thinking Proteſtants,</hi> as well as you, begin, though late, to ſuſpect,<note place="margin">Miſeries inflicted on Catho<g ref="char:EOLhyphen"/>licks</note> That <hi>Catholicks</hi> have <hi>wrongfully ſuffered</hi> the loſs of their Fame, their Goods, their Fortunes, and many their <hi>Lives</hi> Nor do I wonder to ſee you touched with ſome Concern at our Miſeries; for beſides the ſad ſpec<g ref="char:EOLhyphen"/>tacles of <hi>Bloodſhed,</hi> (which I mention without any Re<g ref="char:EOLhyphen"/>ſentment, or Diſreſpect to the Government) the Pri<g ref="char:EOLhyphen"/>ſons have been filled with us, whole Families ruined and exiled, poor <hi>Widows</hi> and innocent <hi>Orphans</hi> have <hi>periſhed</hi> through diſtreſs, the very Woods and Deſerts have not wanted men dying with cold and hunger, and all this u<g ref="char:EOLhyphen"/>pon account of a <hi>Plot,</hi> horrid indeed, and deteſtable in it ſelf, but which could never yet be proved againſt us by any one <hi>credible Witneſs,</hi> or <hi>probable Circumſtance</hi> evin<g ref="char:EOLhyphen"/>cing the Crime.</p>
+            <p>
+               <note place="margin">Through the Perju<g ref="char:EOLhyphen"/>ries</note>True it is, Dr. <hi>Oates,</hi> Captain <hi>Bedloe</hi> and others of de<g ref="char:EOLhyphen"/>bauched Lives and deſperate Fortunes, <hi>allured</hi> by Gain and <hi>encouraged</hi> by Indempnities, have <hi>poſitively ſworn,</hi> (if bare poſitive Swearing, without any other probabi<g ref="char:EOLhyphen"/>lity of truth,<note place="margin">Of wicked Men</note> may ſtand for good Evidence) to a multi<g ref="char:EOLhyphen"/>plicity of Particulars. But theſe men have been and are, ſo notoriouſly <hi>stigmatized</hi> with all ſorts of <hi>Vice and Infamy;</hi> their Oaths have been confronted with ſo ma<g ref="char:EOLhyphen"/>ny <hi>ſelf-Contradictions;</hi> their Forgeries accompanied with ſuch <hi>incredible,</hi> ſuch <hi>impoſsible</hi> Circumſtances; their
+<pb n="3" facs="tcp:152646:2"/>
+Lyes and Fables ſo ſtuffed with <hi>Abſurdities,</hi> Non-fence, and Follies; the Crime of <hi>Perjury</hi> ſo often, ſo palpab<g ref="char:EOLhyphen"/>ly proved againſt them: in ſhort both their paſt and pre<g ref="char:EOLhyphen"/>ſent Villanies are now become ſo apparent and perſpi<g ref="char:EOLhyphen"/>cuous, that the greateſt part of the Nation hath an <hi>ab<g ref="char:EOLhyphen"/>horrence</hi> of them.</p>
+            <p>But you tell me, (and you are in the right) That the thing which hath rendered <hi>credible</hi> the Teſtimony of o<g ref="char:EOLhyphen"/>therwiſe incredible <hi>Witneſſes</hi> againſt us,<note place="margin">Evil Prin<g ref="char:EOLhyphen"/>ciples wrongfully imputed.</note> and which hath invalidated all contrary Evidence given in our behalf, is a <hi>Perſwaſion</hi> many <hi>Proteſtants</hi> have; that the <hi>Catholick Religion</hi> is made up of <hi>traitorous Principles</hi> deſtructive to Peace and Government. You ſay you have been in<g ref="char:EOLhyphen"/>formed by common Report by printed Books, nay by ſome <hi>Miniſters</hi> in their very <hi>Pulpits.</hi> That <hi>Catholicks</hi> hold it an Article of Faith to believe. That the <hi>Pope can de<g ref="char:EOLhyphen"/>poſe Kings, abſolve their Subjects from their Allegiance, and diſpoſe of Kingdoms to whom he pleaſe.</hi> That to <hi>murder Proteſtants and deſtroy the Nation by Fire and Sword,</hi> for prop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gation of the <hi>Catholick Faith,</hi> are <hi>Works of Piety,</hi> and meritorious of Heaven. Theſe and the like horrid <hi>Aſperſions,</hi> together with I know not what feigned <hi>Ido<g ref="char:EOLhyphen"/>latries, Superſtitions and Abuſes,</hi> are (as you have right<g ref="char:EOLhyphen"/>ly intimated) laid to the charge of <hi>Roman Catholicks,</hi> whereby to render both their Faith and Perſons odious to many otherwiſe well-meaning People, who not ſuf<g ref="char:EOLhyphen"/>ficiently examining the truth of things, but taking all for granted, judge nothing <hi>ill enough</hi> can be ſaid or done againſt <hi>men ſo principled.</hi>
+            </p>
+            <p>And is it not ſtrange and ſevere,<note place="margin">And always diſowned by Catholick<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> That <hi>Principles,</hi> and thoſe p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etended of <hi>Faith</hi> too, ſhould be impoſed upon men, which they themſelves <hi>renounce</hi> and detaſte? <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the
+<pb n="4" facs="tcp:152646:3"/>
+               <hi>Turk's Alcoran</hi> ſhould in like manner be urged upon us, and we hanged up for <hi>Mahumetans,</hi> all we could do or ſay in ſuch a Caſe, would be <hi>patiently to die,</hi> with <hi>Pro<g ref="char:EOLhyphen"/>teſtation</hi> of our own Innocence. And this is the poſture of our preſent condition, we abhor, we renounce, we a<g ref="char:EOLhyphen"/>bominat ſuch Principles; we proteſt againſt them, and <hi>ſeal our Proteſtation</hi> with our dying Breaths. What ſhall we ſay? What can we do more? To <hi>accuſe</hi> men as guil<g ref="char:EOLhyphen"/>ty in <hi>Matters of Faith</hi> which they never owned is the ſame thing as to <hi>condemn them for Matters of Fact,</hi> which they never did.</p>
+            <p>You preſs the Queſtion, and ſay, Some of our <hi>generall Councils,</hi> ſeveral <hi>Papal Decrees,</hi> and many of our <hi>Doctors</hi> and <hi>Divines,</hi> aſſert the fore mentioned Principles. Sir, I have been inſtructed in the <hi>Articles of my Faith,</hi> and I acknowledge the lawfull <hi>Authority</hi> of general Councils, yet I profeſs I never learnt, or found aſſerted in any of them, ſuch <hi>Principles.</hi> And I propoſe unto you, this plain and ſhort <hi>Dilemma,</hi> Either the abovenamed Prin<g ref="char:EOLhyphen"/>ciples are eſteemed by us <hi>Matters of Faith, or not. If they be,</hi> What farther can be required of us, then to <hi>deny and forſake</hi> ſuch a Faith? And this we conſtantly do. But <hi>if they be not Matters of Catholick Faith</hi> nor owned by us as ſuch, Why are <hi>Catholicks as Catholicks</hi> puniſh<g ref="char:EOLhyphen"/>ed for them? Why is our <hi>Religion</hi> perſecuted on that ac<g ref="char:EOLhyphen"/>count? Let theſe in Gods name, if any there be of what Religion ſoever, who <hi>hold ſuch Tenents ſuffer for them.</hi> Why ſhould the <hi>Innocent</hi> be involved with the <hi>Guilty?</hi> There is neither Reaſon nor Iuſtice in it.</p>
+            <p>
+               <note place="margin">An Ob<g ref="char:EOLhyphen"/>jection</note> Hereunto ſome Perſons (I hope out of zeal and miſ<g ref="char:EOLhyphen"/>information, rather then Malice) ſtick not to ſay; That <hi>Diſpenſations,</hi> and I know not what Indulgencies and
+<pb n="5" facs="tcp:152646:3"/>
+Pardons, whereby to legitimate the Crimes of Lying and <hi>Forſwearing,</hi> when the Intereſt of our Church re<g ref="char:EOLhyphen"/>quires, is a <hi>main Part</hi> of our Religion; And by conſe<g ref="char:EOLhyphen"/>quence the <hi>Denial</hi> of our Principles, is no ſufficient <hi>Iuſ<g ref="char:EOLhyphen"/>tification</hi> of our Innocence, <note place="margin">Anſwered.</note> I anſwer, Firſt, It is in the higheſt meaſure cenſorious in any one, to <hi>impoſe</hi> upon all our Anceſtors, and the greateſt Part of Mankind, who are, or have been Members of our Religion, ſuch an <hi>ex<g ref="char:EOLhyphen"/>ceſs of Folly</hi> and Wickedneſs; as muſt needs have per<g ref="char:EOLhyphen"/>verted all <hi>Humane Society</hi> Secondly, If we could law<g ref="char:EOLhyphen"/>fully <hi>deny the Principles of our Faith,</hi> when intereſt re<g ref="char:EOLhyphen"/>quires, why have we loſt our Eſtates, our Liberties, our Lives, for the <hi>Profeſsion of it?</hi> To what purpoſes are <hi>Oaths and Teſts</hi> deviſed, to entangle us? How imperti<g ref="char:EOLhyphen"/>nently is the frequenting the <hi>Proteſtant Church,</hi> and <hi>re<g ref="char:EOLhyphen"/>ceiving the Communion,</hi> propoſed unto us, and <hi>refuſed by us?</hi> Thirdly, Though many Men may be induced to Lye, and forſwer, when they have ſome hopes or pro<g ref="char:EOLhyphen"/>ſpect, thereby of Temporal advantage, yet that Perſons <hi>Dying</hi> for their Conſcience and Religion (as divers have done, and thoſe no Fools even by the Confeſſion of our Adverſaries) ſhould be ſo ſtupendiouſly <hi>Sottiſh and Mad,</hi> either to imagine that <hi>Lyes and Perjuries,</hi> for <hi>Concealment of Treaſon,</hi> Murder, Maſſacre, and Deſtruc<g ref="char:EOLhyphen"/>tion of others by Fire and Sword, ſhould be Acts of Vertue, pleaſing to God, <hi>Diſpenſable by the Pope,</hi> and Meritorious of Heaven; Or that, on the contrary, know<g ref="char:EOLhyphen"/>ing and believing, as needs they muſt, ſuch <hi>Monſters and Horrours</hi> to be Odious and Deteſtable in the ſight both <hi>of God and Man,</hi> they ſhould nevertheleſs, upon the ve<g ref="char:EOLhyphen"/>ry brink of Eternity, <hi>Wittingly and Willingly</hi> caſt them<g ref="char:EOLhyphen"/>ſelves Head-long into an <hi>aſſured Damnation,</hi> and this at
+<pb n="6" facs="tcp:152646:4"/>
+a time when they might have ſaved both Bodyes and Souls, by meerly diſcharging a good Conſcience in ac<g ref="char:EOLhyphen"/>knowledging the Truth, and becoming honeſt Men, This I ſay is <hi>Inhumane,</hi> and contradictory to all ſenſe and reaſon to believe.</p>
+            <p>Now therefore I am come to what you ſo often and ſo earneſtly preſs me to <hi>(viZ)</hi> to ſatisfie the world,<note place="margin">The intent of this E<g ref="char:EOLhyphen"/>piſtle.</note> and cleare my ſelf, my Fellow-ſufferers, and my Religion from the Imputation laid upon us, on pretence of ſuch Principles, by a true and candid <hi>Explanation</hi> of my Be<g ref="char:EOLhyphen"/>lief and Iudgement, in the main points of <hi>Faith and Loy<g ref="char:EOLhyphen"/>alty,</hi> controverted between <hi>Catholicks and Proteſtants,</hi> as they ſeverally Relate to <hi>God and the King.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>
+                  <hi>PARAGRAPH I.</hi> Of the Catholick Faith, and Church in Generall.</head>
+               <p n="1">
+                  <note place="margin">Redemp<g ref="char:EOLhyphen"/>tion in Chriſt</note>1. THe Fruition of God, and Remiſſion of Sin is not attainable by Man, otherwiſe then<note n="a" place="margin">Eph. 2.8. 1 Cor. 15.22</note> 
+                  <hi>in and by the Merits of Ieſus Christ, the Son of God,</hi> who <hi>gratis</hi> Purchaſed it for us.</p>
+               <p n="2">
+                  <note place="margin">Applicable by faith,</note>2. Theſe Merits of Chriſt are not applyed to us, otherwiſe then by a <hi>Right</hi>
+                  <note n="b" place="margin">Mark 16.16. Heb. 11.6.</note> 
+                  <hi>Faith</hi> in Chriſt.</p>
+               <p n="3">3. This <hi>Faith is but</hi>
+                  <note n="c" place="margin">Eph. 4.4.</note> 
+                  <hi>one,</hi> entire and conformable to its Object,<note place="margin">which is but one</note> being <hi>Divine Revelations,</hi> to<note n="d" place="margin">Jam. 2.10</note> all which Faith giveth at undoubted aſſent.</p>
+               <p n="4">
+                  <note place="margin">Superna<g ref="char:EOLhyphen"/>tural,</note>4. Theſe Revelations contain many <hi>Myſteries</hi>
+                  <note n="e" place="margin">1 Cor. 1.20. Mat. 16.17.</note> 
+                  <hi>tranſ<g ref="char:EOLhyphen"/>cending the Naturall Reach of Humain Wit</hi> or induſtry. Wherefore,</p>
+               <p n="5">
+                  <note place="margin">By the Di<g ref="char:EOLhyphen"/>vine provi<g ref="char:EOLhyphen"/>dence to be Learnt,</note>5. It became the Divine Wiſdom and Goodneſs, to provide Man of ſome<note n="f" place="margin">Iſa. 35.8</note> 
+                  <hi>Way or Means</hi> whereby he might Arrive to the knowledge of theſe Myſteries; Meanes<note n="g" place="margin">Ioh. 9 40.</note> 
+                  <hi>Viſible</hi> and apparent to all, Meanes<note n="h" place="margin">Mat. 11.25</note> 
+                  <hi>Proportionable</hi> to
+<pb n="7" facs="tcp:152646:4"/>
+the Capacityes of all; Meanes<note n="i" place="margin">Ioh. 15.22.</note> Sure and Certain to all.</p>
+               <p n="6">
+                  <note place="margin">Not from privat inter<g ref="char:EOLhyphen"/>pretation of Scripture,</note>6. This way, or means, is not the <hi>Reading of Scripturs,</hi> Interpreted according to the <hi>Privat</hi>
+                  <note n="k" place="margin">2 Pet. 3.16. Pro. 14.12. Mat 22.29.</note> 
+                  <hi>Reaſon or</hi>
+                  <note n="l" place="margin">1 Ep. Ioh. 4.1. &amp; 6. Pro. 14.12.</note> 
+                  <hi>Spirit</hi> of every Disjunctive Perſon, or Nation in Particular. But</p>
+               <p n="7">7. It is an attention and<note n="m" place="margin">Mat. 18 17 Luk. 10.16.</note> 
+                  <hi>ſubmiſsion</hi> to the Doctrine of the <hi>Catholick or <g ref="char:V">Ʋ</g>niverſal Church,</hi>
+                  <note place="margin">But from the Univer<g ref="char:EOLhyphen"/>ſal Church, Dilated, Continued, and guided by the holy Ghoſt for that end.</note> eſtabliſhed by Chriſt for the inſtruction of all,<note n="n" place="margin">Pſal 2.8. Iſa. 2.2. &amp; cap. 49.6. Mat. 5.14.</note> 
+                  <hi>ſpread</hi> for that end through<g ref="char:EOLhyphen"/>out all <hi>Nations,</hi> and <hi>viſibly continued</hi> in a Succeſſion of Paſtors and People throughout <hi>all Ages:</hi> From which Church<note n="o" place="margin">Iſa. 59.21 Jo 16.13. Eze. 37 26. Eph. 5.25. 1 Tim. 3 15. Mat 16.18.</note> 
+                  <hi>guided in Truth, and ſecured from Error</hi> in Mat<g ref="char:EOLhyphen"/>ters of Faith by the<note n="a" place="margin">Mat 28 20 Iohn 14.16.</note> 
+                  <hi>promiſed aſsiſtance of the holy Ghoſt,</hi> every one may and ought to<note n="b" place="margin">Deut. 17.8 <hi>&amp;c.</hi> Mat. 23.2.</note> 
+                  <hi>learn</hi> both the right Sence of Scripture, and all other <hi>Chriſtian Mysteries</hi> and Du<g ref="char:EOLhyphen"/>ties reſpectively neceſſary to Salvation.</p>
+               <p n="8">8. This Church, thus ſpread, thus guided, thus vi<g ref="char:EOLhyphen"/>ſibly continued,<note place="margin">This Church is the ſame with the Roman Catholick.</note> 
+                  <note n="c" place="margin">Cant 6.8. Jo. 10.16. Rom 15.5. Jo. 17.22. Phil. 2.2.</note> 
+                  <hi>in one uniform Faith, and ſubordination of Government,</hi> is that ſelf-ſame which is termed the <hi>Ro<g ref="char:EOLhyphen"/>man Catholick</hi> Church, the Qualifications above-menti<g ref="char:EOLhyphen"/>oned, being applicable to no other Church or Aſſem<g ref="char:EOLunhyphen"/>bly whatſoever.</p>
+               <p n="9">
+                  <note place="margin">From the Teſtimony of which we believe the Scripture to be God's Word.</note>9. From the Teſtimony and <hi>Authority</hi> of this Church it is, that we Receive and Believe the Scripture to be God's Word. And as ſhe can<note n="d" place="margin">Mat. 16.18 1 Tim. 3.15 Mat. 18.17.</note> 
+                  <hi>aſſuredly</hi> tell us, This or That Book is <hi>God's Word,</hi> ſo can ſhe with the like <hi>aſſu<g ref="char:EOLhyphen"/>rance,</hi> tell us alſo the true <hi>Senſe</hi> and meaning of it in con<g ref="char:EOLhyphen"/>troverted Points of Faith; the ſame <hi>Spirit</hi> that writ the Scripture,<note n="e" place="margin">Iſa. 59.21. Ioh. 24 16.</note> 
+                  <hi>enlightning her</hi> to underſtand both it, and all other Matters neceſſary to Salvation, From theſe Grounds it followeth.</p>
+               <p n="10">
+                  <note place="margin">Divine Re<g ref="char:EOLhyphen"/>velations only mat<g ref="char:EOLhyphen"/>ters of Faith</note>10 All and only <hi>divine Revelations</hi> delivered by God to the Church, and propoſed by her to be believed <hi>as ſuch,</hi> are and ought to be eſteemed <hi>Articles of Faith,</hi>
+                  <pb n="8" facs="tcp:152646:5"/>
+and the contrary Opinions, <hi>Hereſie,</hi> And</p>
+               <p n="11">
+                  <note place="margin">What Here<g ref="char:EOLhyphen"/>ſie, and what Schiſm.</note>11. As an obſtinate <hi>ſeparation</hi> from the <hi>Vnity</hi> of the Church, in known declared <hi>Matters of Faith,</hi> is <hi>for<g ref="char:EOLhyphen"/>mal</hi>
+                  <note n="f" place="margin">1. Co. 11 19. Mat. 18.17.</note> 
+                  <hi>Hereſie:</hi> ſo a wilfull <hi>ſeparation</hi> from the <hi>viſible Vnity</hi> of the ſame <hi>Church,</hi> in Matters <hi>of Subordination and Government is formall</hi>
+                  <note n="g" place="margin">Tit. 3.10 1 Cor. 1.10 cap. 12.25.</note> 
+                  <hi>Schiſm.</hi>
+               </p>
+               <p n="12">
+                  <note place="margin">How Mat<g ref="char:EOLhyphen"/>ters of Faith are propoſed by the Church.</note>12. The Church propoſeth unto us Matters of Faith: Firſt and chiefly, By the<note n="h" place="margin">Io. 5.39.</note> 
+                  <hi>holy Scripture,</hi> in points plain and intelligible in it. Secondly, By<note n="i" place="margin">Act. 15. per tot.</note> 
+                  <hi>Definitions of Ge<g ref="char:EOLhyphen"/>nerall Councils,</hi> in points not ſufficiently explained in Scripture. Thirdly, By<note n="k" place="margin">2 Theſ. 2 15. cap. 3.6. 2 Tim. 2.2</note> 
+                  <hi>Apostolical Traditions,</hi> de<g ref="char:EOLhyphen"/>rived <hi>from</hi> Chriſt and his Apoſtles, to all ſucceding Ages. Fourthly, By her<note n="l" place="margin">Jam. 2.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> 
+                  <hi>Practice, Worſhip and Cere<g ref="char:EOLhyphen"/>monies,</hi> confirming her Doctrine.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>PARAGRAPH, II.</hi> Of Spiritual and Temporal Authority.</head>
+               <p n="2">
+                  <note place="margin">What is the Autho<g ref="char:EOLhyphen"/>rity of ge<g ref="char:EOLhyphen"/>nerall Councils.</note>2. <hi>GEneral Councils</hi> (which are the Church of God, repreſentative) have no <hi>Commiſsion</hi> from Chriſt to fraime <hi>new Matters</hi> of Faith,<note place="margin">Gal. 1 7.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> (theſe being ſole divine Revelations) but only to<note n="a" place="margin">Deu. 17 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Mat. 18.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Act. 15. per tot. Luk. 10.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Heb. 13.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 17.</note> 
+                  <hi>explain and aſcertain</hi> unto us, what anciently was, and is received and retained as of Faith in the Church, upon ariſing Debates or <hi>Controver<g ref="char:EOLhyphen"/>ſies</hi> about them. The <hi>Definitions</hi> of which, generall Councils in <hi>Matters of Faith</hi> only and propoſed <hi>as ſuch,</hi> oblige, under pain of <hi>Hereſie,</hi> all the Faithfull, to a <hi>ſub<g ref="char:EOLhyphen"/>miſsion of Iudgement.</hi> But</p>
+               <p n="2">
+                  <note place="margin">An Expla<g ref="char:EOLhyphen"/>nation of the ſame Authority.</note>2. It is no Article of Faith to believe, That general Councils cannot <hi>Err,</hi> either in Matters <hi>of Fact or Diſci<g ref="char:EOLhyphen"/>pline,</hi> alterable by Circumſtances of Time and Place; or in Matters <hi>of Speculation or civil Policy,</hi> depending on meer humane Iudgement or Teſtimony. Neither of
+<pb n="9" facs="tcp:152646:5"/>
+theſe being divine <hi>Revelations</hi>
+                  <note n="b" place="margin">1 Tim 5.20</note> 
+                  <hi>depoſited</hi> in the <hi>Catholick Church;</hi> in regard to which alone, ſhe hath the<note n="c" place="margin">Joh. 14.16</note> 
+                  <hi>promi<g ref="char:EOLhyphen"/>ſed aſsiſtance of the Holy Ghoſt.</hi> Hence it is deduced:</p>
+               <p n="3">
+                  <note place="margin">A Deduc<g ref="char:EOLhyphen"/>tion from thence con<g ref="char:EOLhyphen"/>cerning Al<g ref="char:EOLhyphen"/>legiance.</note>3. If a <hi>general Councill</hi> (much leſs a Papal Conſiſtory) ſhould undertake to <hi>depoſe a King,</hi> and <hi>abſolve his Subjects</hi> from their <hi>Allegiance,</hi> no <hi>Catholick as Catholick</hi> is bound to <hi>ſubmit</hi> to ſuch a <hi>Decree.</hi> Hence alſo it followeth:</p>
+               <p n="4">
+                  <note place="margin">A ſecond Deduction concerning the ſame.</note>4. The Subjects of the King of <hi>England</hi> lawfully <hi>may,</hi> without the leaſt breach of any <hi>Catholick Principle,</hi> re<g ref="char:EOLhyphen"/>nounce even upon Oath, the <hi>Doctrine of depoſing Kings</hi> excommunicated for Hereſie, by any Authority what<g ref="char:EOLhyphen"/>ſoever,<note place="margin">1. Pet. 2.13. &amp;c.</note> as repugnant to the <hi>fundamental Laws</hi> of the Na<g ref="char:EOLhyphen"/>tion, <hi>injurious to Soveraign Power,</hi> deſtructive to the <hi>Peace and Government,</hi> and by conſequence, in his Ma<g ref="char:EOLhyphen"/>jeſty's Subjects, <hi>impious and damnable.</hi> Yet not proper<g ref="char:EOLhyphen"/>ly <hi>Heretical,</hi> taking the word <hi>Heretical</hi> in that connatural genuine <hi>ſence,</hi> it is uſually underſtood in the <hi>Catholick Church;</hi>
+                  <note place="margin">Of the Oath of Allegiance.</note> on which account cheifly it is, that many <hi>Ca<g ref="char:EOLhyphen"/>tholicks</hi> of <hi>tender Conſciences</hi> refuſe the <hi>Oath,</hi> commonly called, The <hi>Oath of Allegiance.</hi>
+               </p>
+               <p n="5">
+                  <note place="margin">The Biſhop of Rome ſupream Head of the Church But not Infal<g ref="char:EOLhyphen"/>lible.</note>5. <hi>Catholicks</hi> believe, That the Biſhop of <hi>Rome</hi> is the Succeſſor of St. <hi>Peter,</hi>
+                  <note n="d" place="margin">Mat. 16.17. Luk. 22.31. Joh. 21.15.</note> Vicar of <hi>Ieſus Chriſt</hi> upon Earth, and <hi>Head of the whole Catholick Church,</hi> which Church is therefore fitly ſtyled <hi>Roman Catholick,</hi> being an <hi>univerſal Body</hi>
+                  <note n="e" place="margin">Eph. 4.11.</note> united under <hi>one viſible Heed.</hi> Nevertheleſs.</p>
+               <p n="6">6. It is <hi>no Matter of Faith</hi> to believe, That the <hi>Pope</hi> is in himſelf <hi>Infallible</hi> ſeperated from a general Council, e<g ref="char:EOLhyphen"/>ven in <hi>expounding the Faith:</hi> By conſequence, <hi>Papal De<g ref="char:EOLhyphen"/>finitions or Decrees,</hi> though <hi>ex Cathedra,</hi> as they term them oblige none under <hi>Pain of Hereſie,</hi> to an interiour aſſent.</p>
+               <p n="7">
+                  <note place="margin">Nor hath a<g ref="char:EOLhyphen"/>ny temporal Authority o<g ref="char:EOLhyphen"/>ver Princes.</note>7. Nor do <hi>Catholicks as Catholicks</hi> believe that the <hi>Pope</hi> hath any direct, or indirect <hi>Authority</hi> over the <hi>Temporal Power</hi> and Iuriſdiction of <hi>Princes.</hi> Hence, if the <hi>Pope</hi>
+                  <pb n="10" facs="tcp:152646:6"/>
+ſhould pretend to <hi>Abſolve</hi> or <hi>Diſpence</hi> with his Majeſties Subjects from their <hi>Allegiance,</hi> upon account <hi>of Hereſie or Schiſm</hi> ſuch <hi>Diſpenſation</hi> would be <hi>vain and null:</hi> and all <hi>Catholick</hi> Subjects, notwithſtanding ſuch <hi>Diſpenſation,</hi> or Abſolution, would be ſtill bound in Conſcience to <hi>defend</hi> their King and Countrey, at the hazard of their Lives and Fortunes even <hi>againſt the Pope himſelf,</hi> in caſe he ſhould invade the Nation.</p>
+               <p n="8">
+                  <note place="margin">The Church not reſpon<g ref="char:EOLhyphen"/>ſible for the Errours of particular Divines.</note>8. And as for <hi>Problematical Diſputes</hi> or Errors of par<g ref="char:EOLhyphen"/>ticular <hi>Divines,</hi> in this or any other matter whatſoever, the <hi>Catholick</hi> Church is no wiſe reſponſible for them: Nor, are <hi>Catholicks as Catholicks</hi> juſtly <hi>puniſhable</hi> on their account. But:</p>
+               <p n="9">9. As for the <hi>King-Killing Doctrine,</hi>
+                  <note place="margin">Conc. Conſt. Seſs. 15.</note> or Murder of Princes,<note place="margin">King-killing Doctrine Damnable Hereſy.</note> excommunicated for Hereſie; It is an <hi>Article of Faith</hi> in the <hi>Catholick</hi> Church, and expreſly declared in the General Council of <hi>Constance,</hi> that ſuch Doctrine is <hi>Damnable</hi> and <hi>Heretical,</hi> being contrary to the known <hi>Laws</hi> of God and Nature.</p>
+               <p n="10">
+                  <note place="margin">Perſonal miſdeme<g ref="char:EOLhyphen"/>nours not to be im<g ref="char:EOLhyphen"/>puted to the Church.</note>10. <hi>Perſonal Miſdemeanors</hi> of what nature ſoever, ought not to be <hi>imputed</hi> to the <hi>Catholick</hi> Church when not juſ<g ref="char:EOLhyphen"/>tifyable by the <hi>Tenents</hi> of her Faith and Doctrine; For which Reaſon, though the Stories of the <hi>Paris Maſſacre;</hi> the <hi>Iriſh Cruelties,</hi> Or <hi>Powder-Plot</hi> had been true, (which yet for the moſt part are notoriouſly miſrelated) never<g ref="char:EOLhyphen"/>theleſs <hi>Catholicks as Catholicks</hi> ought not to ſuffer for ſuch <hi>Offences,</hi> any more then the eleven <hi>Apostles</hi> ought to have ſuffered for <hi>Iudah's Treachery.</hi>
+               </p>
+               <p n="11">11. It is an <hi>Article of the Catholick Faith</hi> to believe, that no <hi>Power</hi> on Earth can <hi>licenſe</hi> Men to <hi>Lye,</hi>
+                  <note place="margin">No Power on Earth can autho<g ref="char:EOLhyphen"/>riſe Men to Lye, Fore<g ref="char:EOLhyphen"/>ſwear, Mur<g ref="char:EOLhyphen"/>ther, &amp;c.</note> to <hi>Fore<g ref="char:EOLhyphen"/>ſwear,</hi> and <hi>Perjure</hi> themſelves, to <hi>Maſſacre</hi> their Neigh<g ref="char:EOLhyphen"/>bours, or deſtroy their Native Countrey, on pretence of <hi>promoting the Catholick Cauſe or Religion;</hi> Furthermore,
+<pb n="11" facs="tcp:152646:6"/>
+all <hi>Pardons and diſpenſations</hi> granted or pretended to be granted, in order to any ſuch <hi>ends</hi> or deſignes, have no other <hi>validity</hi> or effect, then to add <hi>Sacriledge</hi> and Blaſ<g ref="char:EOLhyphen"/>phemy to the above-mentioned Crimes.</p>
+               <p n="12">
+                  <note place="margin">Equivoca<g ref="char:EOLhyphen"/>tion not allowed in the Church</note>12. The Doctrine of <hi>Equivocation</hi> or mental Reſerva<g ref="char:EOLhyphen"/>tion, however wrongfully impoſed on the <hi>Catholick Re<g ref="char:EOLhyphen"/>ligion,</hi> is notwithſtanding neither taught,<note place="margin">2 Cor 1.12.</note> nor approved by the Church, as any part of her Belief. On the con<g ref="char:EOLhyphen"/>trary, <hi>Simplicity and godly ſincerity</hi> are conſtantly recom<g ref="char:EOLhyphen"/>mended by her as truely <hi>Chriſtian Vertues,</hi> neceſſary to the Converſation <hi>of Iuſtice, Truth, and Common Society.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>PARAGRAPH III.</hi> Of ſome Particular controverted Points of Faith.</head>
+               <p n="1">
+                  <note place="margin">Of Sacra<g ref="char:EOLhyphen"/>mental Ab<g ref="char:EOLunhyphen"/>ſolution.</note>1. EVery <hi>Catholick is oblidged to believe,</hi> that when a Sinner<note n="a" place="margin">Ez. 18.21. 2 Cor. 7.10</note> repeateth him of his Sins from the <hi>bot<g ref="char:EOLhyphen"/>tom</hi> of his <hi>Heart</hi> and<note n="b" place="margin">Pſa. 32.5. Pro. 28.13.</note> 
+                  <hi>acknowledgeth</hi> his tranſgreſſions to <hi>God</hi> and his<note n="c" place="margin">Act. 19.18. 1 Cor. 4.1. Jam. 5.16.</note> 
+                  <hi>Miniſters, the Diſpencers of the Myſteries of Chriſt,</hi> reſolving to turn from his evil ways,<note n="d" place="margin">Luk. 3 8.</note> and <hi>bring forth Fruits worthie of Penance,</hi> there is (then and no o<g ref="char:EOLhyphen"/>therwiſe) an <hi>Authority</hi> left by Chriſt to <hi>Abſolve</hi> ſuch a <hi>penitent Sinner</hi> from his Sins; which <hi>Authority</hi> Chriſt gave to his<note n="e" place="margin">Joh. 20.21 &amp;c. Mat. 18.18.</note> 
+                  <hi>Apoſtles,</hi> and their <hi>Succeſſors,</hi> the <hi>Biſhops and Prieſts of the Catholick Church,</hi> in thoſe words, when he ſaid. Receive ye the <hi>Holy Ghost,</hi> whoſe <hi>Sins</hi> you ſhall <hi>forgive,</hi>
+                  <note place="margin">Of Satiſ<g ref="char:EOLhyphen"/>faction by penitential Works.</note> they are <hi>forgiven</hi> unto them, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. Though no <hi>Creature</hi> whatſoever can make<note n="f" place="margin">Tit. 3.5.</note> condign <hi>ſatisfaction</hi> either for the <hi>guilt</hi> of Sin, or the <hi>Pain eternal</hi> due to it<note n="g" place="margin">2 Cor. 3.5.</note> this ſatisfaction being proper to Chriſt our Sa<g ref="char:EOLhyphen"/>viour only, yet <hi>penitent Sinners</hi> redeemed by <hi>Chriſt</hi> may as <hi>members of Chriſt</hi> in ſome meaſure<note n="h" place="margin">Act. 26.20. Jona 2.5. &amp;c. Pſal. 102.9. &amp;c. Pſa. 109.23. Dan. 9 3. Joel 2.11. Luk. 11.41. Act. 10.4.</note> 
+                  <hi>ſatisfie</hi> by Prayer, Faſting, Alms, Deeds, and other <hi>works of Piety,</hi> for the <hi>Temporal Pain,</hi> which by order of Divine Iuſtice ſome<g ref="char:EOLhyphen"/>times remains due after the <hi>guilt</hi> of Sin, and <hi>Pains Eter<g ref="char:EOLhyphen"/>nal</hi>
+                  <pb n="12" facs="tcp:152646:7"/>
+are <hi>(gratis) remitted.</hi> Theſe <hi>penitential Works</hi> are not<g ref="char:EOLhyphen"/>withſtanding <hi>ſatisfactory</hi> no otherwiſe then as <hi>joyned</hi> and applyed to that <hi>ſatisfaction, which Ieſus made upon the Croſs, in vertue of which alone, all our good works find a gratefull</hi>
+                  <note n="i" place="margin">1 Pet 2.5.</note> 
+                  <hi>acceptance in God's Sight.</hi>
+               </p>
+               <p n="3">3. The guilt of Sin or Pain eternal due to it, is never remitted by <hi>Indulgencies,</hi>
+                  <note place="margin">Indulgen<g ref="char:EOLhyphen"/>ces are not Remiſſion of Sins, but only of Canonical Penances. Abuſes herein not to be char<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d on the Church.</note> but only ſuch<note n="k" place="margin">1 Cor. 5.3. &amp;c. 2 Cor. 2.6.10. &amp;c.</note> 
+                  <hi>Temporal pu<g ref="char:EOLhyphen"/>niſhments</hi> as remain due after the guilt is remitted; Theſe Indulgencies being nothing elſe then a <hi>Mitigation</hi> or <hi>Re<g ref="char:EOLhyphen"/>laxation</hi> upon juſt cauſes, <hi>of Canonical Penances,</hi> enjoyn<g ref="char:EOLhyphen"/>ed by the Paſtors of the Church on Penitent Sinners, according to their ſeveral degrees of demerit. And if a<g ref="char:EOLhyphen"/>ny abuſes or miſtakes be ſometimes commited, in point either of granting or gaining <hi>Indulgencies,</hi> through the remiſſneſs or ignorance of particular Perſons, contrary to the ancient Cuſtom and Diſcipline of the Church; ſuch Abuſes or Miſtakes cannot rationally be charged on the Church, nor rendered matter of Deriſion, in prejudice to her Faith and Doctrine.</p>
+               <p n="4">
+                  <note place="margin">There is a Purgatory or ſtate, where Souls de<g ref="char:EOLhyphen"/>parting this Life with ſome ble<g ref="char:EOLhyphen"/>miſh are pu<g ref="char:EOLhyphen"/>rified.</note>4. <hi>Catholicks</hi> hold there is a <hi>Purgatory,</hi> that is to ſay, a Place or State, where Souls departing this Life, with remiſſion of their ſins, as to the eternal guilt or pain, yet<note n="a" place="margin">Num. 14.20. &amp;c. 2 Sam. 12.13. &amp;c.</note> 
+                  <hi>obnoxious</hi> to ſome <hi>temporal Puniſhment</hi> ſtill remaining due, or not perfectly <hi>freed</hi> from the <hi>blemiſh</hi> of ſome<note n="b" place="margin">Pro. 24.16. Mat. 12.36.</note> 
+                  <hi>ve<g ref="char:EOLhyphen"/>nial Defects,</hi> or Deordinations, (as idle words, <hi>&amp;c.</hi> not liable to damnation) are<note n="c" place="margin">Cap. 5.22.26. 1 Cor. 3.15.</note> 
+                  <hi>purged</hi> before their admit<g ref="char:EOLhyphen"/>tance into Heaven, where nothing that is<note n="d" place="margin">Rev. 21.27.</note> 
+                  <hi>defiled</hi> can <hi>enter.</hi> Furthermore:</p>
+               <p n="5">
+                  <note place="margin">Prayers for the Dead, available to them</note>5. <hi>Catholicks</hi> alſo hold, That ſuch Souls, ſo detained in Purgatory, being the living <hi>Members</hi> of Chriſt Ieſus, are<note n="e" place="margin">1 Cor. 15.29. Col. 1.24. 1 Jo. 5.16. 2 Mac. 12.43. &amp;c.</note> 
+                  <hi>relieved</hi> by the <hi>Prayers</hi> and Suffrages of their fel<g ref="char:EOLhyphen"/>low-<hi>Members here</hi> on Earth:<note place="margin">Superfluous Queſtions about Pur<g ref="char:EOLhyphen"/>gatory.</note> But where this Place is? Of what nature or quality the Pains are? How long each
+<pb n="13" facs="tcp:152646:7"/>
+Soul is detained there? After what manner the Suffra<g ref="char:EOLhyphen"/>ges made in their behalf are applyed? Whether by way of Satisfaction or Interceſſion? <hi>&amp;c.</hi> are Queſtions ſu<g ref="char:EOLhyphen"/>perfluous, and impertinent as to Faith.</p>
+               <p n="6">
+                  <note place="margin">Of the me<g ref="char:EOLhyphen"/>rit of good Works through the merits of Chriſt.</note>6. No man though <hi>juſt,</hi>
+                  <note n="f" place="margin">Jo. 15.5.16.</note> can <hi>merit</hi> either an increaſe of Sanctity or Happineſs in this Life, or eternal Glory in the next, independent on the <hi>Merits</hi> and Paſſion of Chriſt; nevertheleſs in and by the <hi>Merits</hi> of Chriſt Ie<g ref="char:EOLhyphen"/>ſus,<note n="g" place="margin">Mat. 16.27 Cap. 15.12. Cap. 10.41. 2 Cor. 5.10. 2 Tim. 4.8.</note> the <hi>good Works</hi> of a juſt man proceeding from <hi>Grace</hi> and Charity, are <hi>acceptable</hi> to God, ſo far forth as to be, through his Goodneſs and ſacred Promiſe, truly <hi>meritorious</hi> of eternal Life.</p>
+               <p n="7">
+                  <note place="margin">Chriſt real<g ref="char:EOLhyphen"/>ly preſent in the Sa<g ref="char:EOLhyphen"/>crament of the Eu<g ref="char:EOLhyphen"/>chariſt.</note>7. It is an Article of the <hi>Catholick Faith,</hi> That in the moſt holy <hi>Sacrament</hi> of the Euchariſt, there is <hi>truely</hi> and <hi>really</hi> contained the<note n="h" place="margin">Mat. 26.26 Mar. 14.22. Luk. 22.19. 1 Cor. 11.23 &amp;c. Cap. 10.16.</note> 
+                  <hi>Body of Chriſt, which was delivered for us, and his Blood, which was ſhed for the remiſsion of ſins;</hi> the ſubſtance of <hi>Bread and Wine,</hi> being by the powerful Words of Chriſt, <hi>changed</hi> into the <hi>ſubſtance</hi> of his bleſſed Body and Blood, the Species or Accidents of Bread and Wine ſtill remaining. Thus:</p>
+               <p n="8">8. Chriſt is not preſent in this Sacrament, according to his <hi>natural</hi> way of Exiſtence;<note place="margin">But after a ſupernatu<g ref="char:EOLhyphen"/>ral manner.</note> that is, with extenſion of Parts, in order to Place, <hi>&amp;c.</hi> but after a <hi>ſupernatural</hi> manner, one and the ſame in many Places, and whole in every part of the Symbols. This therefore is a real, <hi>ſubſtantial,</hi> yet <hi>Sacramental</hi> preſence of Chriſts Body and Blood, not expoſed to the external Senſes, nor obnoxi<g ref="char:EOLhyphen"/>ous to corporeal Contingences.</p>
+               <p n="9">9 Neither is the Body of Chriſt in this holy Sacrament <hi>ſeparated</hi> from his Blood,<note place="margin">Whole Chriſt in ei<g ref="char:EOLhyphen"/>ther ſpecies.</note> or his Blood from his Body, or either of both <hi>diſjoyned</hi> from his <hi>Soul</hi> and Divinity, but all and whole <hi rend="sup">a</hi> 
+                  <hi>living</hi> Ieſus is <hi>entirely</hi> contained under <hi>either Species,</hi> ſo that wholoever receiveth under <hi>one kind,</hi>
+                  <pb n="14" facs="tcp:152646:8"/>
+is truly partaker of the <hi>whole Sacrament</hi> and no wiſe de<g ref="char:EOLhyphen"/>prived <hi>either</hi> of the Body or Blood of Chriſt. True it is:</p>
+               <p n="10">
+                  <note place="margin">Hence Communi<g ref="char:EOLhyphen"/>cants under one kind no wiſe depriv<g ref="char:EOLhyphen"/>ed either of the Body or Blood of Chriſt.</note>10. Our Saviour Ieſus Chriſt left unto us his Body and Blood, under two <hi>diſtinct</hi> Species or Kinds; in doing of which, he inſtituted not only a <hi>Sacrament,</hi> but alſo a Sacrifice;<note n="b" place="margin">Lu. 22.19. &amp;c.</note> a <hi>commemorative Sacrifice</hi> diſtinctly<note n="c" place="margin">1 Cor. 11.26.</note> 
+                  <hi>ſhewing</hi> his <hi>Death</hi> or bloody Paſſion, <hi>untill he come.</hi> For as the <hi>Sacrifice of the Croſs</hi> was performed by a diſtinct <hi>effuſion of Blood,</hi> ſo is the ſame Sacrifice <hi>commemorated</hi> in that of the<note n="d" place="margin">Heb 13 10</note> 
+                  <hi>Altar,</hi> by a <hi>diſtinction of the Symbols.</hi> Ieſus there<g ref="char:EOLhyphen"/>fore is here <hi>given</hi> not only <hi>to us,</hi> but<note n="e" place="margin">Lu 22.19</note> 
+                  <hi>for us;</hi> and the Church thereby enriched with a true,<note place="margin">Of the Sa<g ref="char:EOLhyphen"/>crifice of the Maſs.</note> proper, and pro<g ref="char:EOLhyphen"/>pitiatory<note n="f" place="margin">Mal. 1.11.</note> Sacrifice, uſually termed <hi>Maſs.</hi>
+               </p>
+               <p n="11">
+                  <note place="margin">Worſhip of Images wrongfully impoſed on Catholicks.</note>11. <hi>Catholicks</hi> renounce all <hi>divine Worſhip</hi> and adoration of <hi>Images</hi> or Pictures.<note n="g" place="margin">Luke 4.8</note> 
+                  <hi>God alone we Worſhip and Adore;</hi> nevertheleſs we make uſe of Pictures, and place them in<note n="h" place="margin">Exod. 25.18. 1 Kings 6.35. Luke 3.22. Num. 21.8. Acts. 5.5.</note> 
+                  <hi>Churches</hi> and Oratries, to reduce our wandering thoughts, and enliven our Memories towards <hi>Heavenly things.</hi>
+                  <note place="margin">Yet there is ſome Vene<g ref="char:EOLhyphen"/>ration due both to Pictures</note> And further we allow a certain <hi>Honour</hi> and <hi>Vene<g ref="char:EOLhyphen"/>ration</hi> to the <hi>Picture of Chriſt, of the Virgin Mary,</hi> &amp;c. be<g ref="char:EOLhyphen"/>yond what is due to every <hi>prophane Figure;</hi> not that we believe any <hi>Divinity</hi> or Vertue in the Picturs themſelves for which they ought to be honoured, but becauſe the <hi>Honour</hi> given to the <hi>Pictures</hi> is referred to the <hi>Prototype,</hi> or things repreſented. In like manner:</p>
+               <p n="12">
+                  <note place="margin">And other Sacred things</note>12. There is a kind of Honour and Veneration reſpec<g ref="char:EOLhyphen"/>tively due to the <hi>Bible,</hi> to the <hi>Croſs,</hi> to the Name of <hi>Ieſus,</hi> to <hi>Churches,</hi> to the <hi>Sacraments,</hi> &amp;c. as<note n="i" place="margin">Joſ. 7.6. Exod. 3.5. Pſal. 99 5. phil. 2.10. Luke 3.16. Acts 19.12.</note> things peculi<g ref="char:EOLhyphen"/>arly appertaining to God; alſo to the<note n="k" place="margin">Jo. 12.26.</note> 
+                  <hi>glorifyed Saints</hi> in Heaven as domeſtick Friends of God; yea,<note n="l" place="margin">1 pet. 2.17. Rom. 13.7.</note> to <hi>Kings Magiſtrats</hi> and <hi>Superiors</hi> on Earth, as the <hi>Vicegerants of</hi> God. To whom <hi>Honour</hi> is due. <hi>Honour</hi> may be given without any derogation to the M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jeſty of God, or that
+<pb n="15" facs="tcp:152646:8"/>
+                  <hi>divine Worſhip</hi> appropriate to him. Furthermore:</p>
+               <p n="13">
+                  <note place="margin">Prayers to Saints lawfull.</note>13. <hi>Catholicks</hi> believe, That the <hi>bleſſed Saints</hi> in Heaven, repliniſhed with Charity,<note n="a" place="margin">Rev. 5.8.</note> 
+                  <hi>pray</hi> for us their <hi>fellow Mem<g ref="char:EOLhyphen"/>bers</hi> here on Earth; that they<note n="b" place="margin">Luk. 15.7.</note> 
+                  <hi>rejoyce at our Converſion;</hi> that ſeeing God, they<note n="c" place="margin">1 Cor. 13.13.</note> 
+                  <hi>ſee and know in him</hi> all things ſuit<g ref="char:EOLhyphen"/>able to their <hi>happy ſtate,</hi> that God is <hi>inclinable</hi> to hear their <hi>Requeſts</hi> made in our behalf,<note n="d" place="margin">Exod. 32.13. 2 Chron. 6.42.</note> and for their ſakes granteth us many Favours; that therefore it is <hi>good</hi> and profitable to <hi>deſire</hi> their <hi>Interceſsion;</hi> and that this man<g ref="char:EOLhyphen"/>ner of <hi>Invocation</hi> is no more injurious to Chriſt our <hi>Me<g ref="char:EOLhyphen"/>diator,</hi> nor <hi>ſuperabundant</hi> in it ſelf, then it is for one Chri<g ref="char:EOLhyphen"/>ſtian to beg the <hi>Prayers</hi> and Aſſiſtance of<note n="e" place="margin">Ro. 15.30.</note> 
+                  <hi>another</hi> in this World.<note place="margin">Yet ſo as not to ne<g ref="char:EOLhyphen"/>glect our o<g ref="char:EOLhyphen"/>ther duties.</note> Notwithſtanding all which, <hi>Catholicks</hi> are taught not ſo to rely on the <hi>Prayers of others,</hi> as to ne<g ref="char:EOLhyphen"/>glect their own<note n="f" place="margin">Jam. 2.17 &amp;c.</note> 
+                  <hi>Duty</hi> to God; in imploring his divine Mercy and Goodneſs;<note n="g" place="margin">Rom. 13.14.</note> in <hi>mortifying</hi> the Deeds of the Fleſh; in<note n="h" place="margin">Rom. 11.2</note> 
+                  <hi>deſpiſing</hi> the World; in <hi>loving</hi>
+                  <note n="i" place="margin">Gal. 5.6.</note> and ſerving God and their Neighbour; in <hi>following</hi> the Footſteeps of Chriſt our Lord, who is the<note n="k" place="margin">Jo. 14.6.</note> 
+                  <hi>Way the Truth, and the Life:</hi> To whom be Honour and Glory for ever and ever, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="conclusion">
+               <p>
+                  <note place="margin">A Concluſion from the premiſſes.</note>THeſe are the <hi>Principles,</hi> theſe the <hi>Treaſons,</hi> theſe the <hi>Idolatries,</hi> and <hi>Su<g ref="char:EOLhyphen"/>perſtitions,</hi> which though no other than what we have <hi>received</hi> from our <hi>fore-Fathers,</hi> and what the greateſt part of the <hi>Chriſtian World</hi> now pro<g ref="char:EOLhyphen"/>feſſeth, yet hath drawn upon us poor <hi>Catholicks</hi> in <hi>England</hi> ſuch <hi>dreadful Puniſh<g ref="char:EOLhyphen"/>ments.</hi> I beſeech you, Sir, conſider our Cauſe, without Paſſion or <hi>Prejudice,</hi> and I am confident you will ſee, we are not ſuch <hi>Monſters</hi> as our Adverſaries repreſent us to be, nor entertain ſuch <hi>Principles</hi> as are inconſiſtent with our <hi>du<g ref="char:EOLhyphen"/>ty</hi> to God and the King.</p>
+               <p>
+                  <note place="margin">An Objection anſwered.</note>You ſeem to ſay, This very <hi>Plot</hi> with which we are charged, proveth us <hi>guil<g ref="char:EOLhyphen"/>ty</hi> of wicked Principles. But, under favour, you here commit a vicious Circle in way of arguing; For firſt, here are wicked Principles alledged, to make good the <hi>proof of a Plot;</hi> and theſe being denyed, the Plot is introduced to make out the <hi>wicked Principles;</hi> as if a man ſhould <hi>ſay</hi> a thing, becauſe he <hi>thought ſo,</hi> and give no Reaſon why he <hi>thought ſo,</hi> but only becauſe he <hi>ſaid ſo,</hi> which in ſtead of Proof, is to beg the Queſtion. Certain I am, <hi>Catholicks</hi> both <hi>taught and practiſed</hi> Principles of <hi>Loyalty,</hi> at a time when the King and King<g ref="char:EOLhyphen"/>dom felt the dire Effects of contrary <hi>Perſwaſions.</hi>
+               </p>
+               <p>
+                  <pb n="16" facs="tcp:152646:9"/>
+                  <note place="margin">A ſecond Objection anſwered</note>You add, The two Houſes of Parliament, the Judges, and in a manner, the whole Nation, ſeemed to believe, and cry up the Evidence given of a <hi>Plot.</hi> I anſwer, The moſt upright Perſons, and thoſe even of <hi>ſupreme Authority,</hi> may ſometimes be <hi>miſinformed,</hi> and conſequently <hi>abuſed,</hi> by the <hi>Perjury</hi> and Ma<g ref="char:EOLhyphen"/>lice of <hi>wicked Men.</hi> Eſpecially when once Mindes are <hi>exaſperated,</hi> jealouſies <hi>heightened,</hi> and forgeries <hi>abetted</hi> and multiplyed, by the <hi>clandeſtine</hi> endeavours of a <hi>malignant Party,</hi> who love to fiſh in troubled Waters; and who by raiſing Feuds, and fomenting diſorders, make their way to <hi>ſiniſter Ends.</hi> You your ſelf are ſenſible, there are a ſort of People, who under a colourable <hi>zeal a<g ref="char:EOLhyphen"/>gainſt Popery,</hi> (as they term it) ſtrick at <hi>Monarchy,</hi> and undermine the Govern<g ref="char:EOLhyphen"/>ment. I ſhall not need to dilate on this Subject; our Nation hath once had a ſad experience of this <hi>zeal,</hi> and I heartily wiſh the ſame <hi>Tragedy</hi> may not be <hi>Acted</hi> over again.</p>
+               <p>
+                  <note place="margin">Catholicks ſuffer for their Reli<g ref="char:EOLhyphen"/>gion. Their ſuffe<g ref="char:EOLhyphen"/>rings not un<g ref="char:EOLhyphen"/>like to thoſe of Chriſt our Lord.</note>In Fine, whatſoever is pretended againſt us, it is manifeſt we ſuffer for our <hi>Religion,</hi> and for our Religion <hi>wrongfully traduced.</hi> It is farther a comfort to us, that our ſufferings (God be praiſed) are in ſome meaſure, <hi>not unlike</hi> to thoſe of <hi>Chriſt our Lord;</hi> For it was laid to his charge, as it is to ours,<note place="margin">
+                     <hi>Luk.</hi> 23.2. <hi>Io.</hi> 11.48. <hi>Ma.</hi> 26 60. <hi>Rom.</hi> 8.29. <hi>ver.</hi> 17.</note> that he was a <hi>Traitour to Caeſar.</hi> That he <hi>perverted</hi> the People, and endeavoured the <hi>deſtruction of Church and State,</hi> Nor were there wanting then, as now, an <hi>Oates and Bedloe, two falſe witneſſes to Swear all this.</hi>
+               </p>
+               <p>Thus God, I hope hath <hi>predeſtinated</hi> us (as the Apoſtle ſaith) to be <hi>con<g ref="char:EOLhyphen"/>form to the Image of his Son;</hi> to the end that <hi>ſuffering</hi> with him, we may (through his Mercy) be <hi>Glorifyed</hi> together with him.</p>
+               <p>Sweet Jeſus bleſs our <hi>Soveraign,</hi> Pardon our <hi>Enemies;</hi> Grant us Patience; and eſtabliſh <hi>Peace and Charity</hi> in our Nation.</p>
+               <p>This is the daily Prayer of,</p>
+               <closer>
+                  <signed>SIR, Your faithfull, though diſtreſſed Friend M. B.</signed>
+               </closer>
+               <epigraph>
+                  <q>
+                     <bibl>Pſal. 35. v 11.</bibl> 
+                     <p>Falſe Witneſſes did riſe up; they laid to my Charge things that I knew not.</p>
+                  </q>
+                  <q>
+                     <bibl>Mat. 5. v. 11.</bibl> 
+                     <p>Bleſſed are ye when men ſhall revile you, and perſecute you, and ſhall ſay all manner of Evil againſt you Falſly, for my ſake. Rejoyce and be glade, for great is your Reward in Heaven.</p>
+                  </q>
+               </epigraph>
+               <pb facs="tcp:152646:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
